@@ -1,0 +1,88 @@
+[
+  {
+    "id": "ORD-20260726-8802",
+    "items": [
+      {
+        "id": "3-seater-sofa",
+        "name": "3-Seater Sofa",
+        "price": 16000,
+        "quantity": 1,
+        "selectedVariations": {}
+      },
+      {
+        "id": "3-seater-sofa",
+        "name": "3-Seater Sofa",
+        "price": 14000,
+        "quantity": 1,
+        "selectedVariations": {
+          "Fabric Color": "Charcoal Grey",
+          "Size": "2-Seater"
+        }
+      },
+      {
+        "id": "3-plus-2-sofa-set",
+        "name": "3+2 Seater Sofa Set",
+        "price": 26000,
+        "quantity": 1,
+        "selectedVariations": {}
+      },
+      {
+        "id": "3-plus-2-sofa-set",
+        "name": "3+2 Seater Sofa Set",
+        "price": 26000,
+        "quantity": 1,
+        "selectedVariations": {
+          "Fabric Color": "Charcoal Grey"
+        }
+      },
+      {
+        "id": "3-plus-2-sofa-set",
+        "name": "3+2 Seater Sofa Set",
+        "price": 26000,
+        "quantity": 1,
+        "selectedVariations": {
+          "Fabric Color": "Burgundy"
+        }
+      }
+    ],
+    "customer": {
+      "name": "Arthur Promise Chibondo",
+      "phone": "+265995663949",
+      "email": "geniuspulse22@gmail.com",
+      "address": "Box 16, Mangochi"
+    },
+    "delivery": {
+      "zone": "Area 47",
+      "preferredDate": "2026-07-31",
+      "notes": ""
+    },
+    "total": 108000,
+    "status": "pending",
+    "createdAt": "2026-07-26T07:38:05.807Z"
+  },
+  {
+    "id": "ORD-20260726-878994",
+    "items": [
+      {
+        "id": "3-seater-sofa",
+        "name": "3-Seater Sofa",
+        "price": 14000,
+        "quantity": 1,
+        "selectedVariations": {
+          "Fabric Color": "Charcoal Grey",
+          "Size": "2-Seater"
+        }
+      }
+    ],
+    "customer": {
+      "name": "WhatsApp Direct Order",
+      "phone": "Pending via WhatsApp"
+    },
+    "delivery": {
+      "zone": "Lilongwe"
+    },
+    "total": 14000,
+    "status": "pending",
+    "createdAt": "2026-07-26T08:19:02.941Z"
+  }
+]

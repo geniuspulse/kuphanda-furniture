@@ -1,0 +1,43 @@
+{
+  "business": {
+    "name": "Kuphanda Furniture",
+    "tagline": "Custom-Made Office & Home Furniture in Malawi",
+    "description": "We custom-make high quality office furniture, boardroom tables, office cabinets, hardwood doors, beds, wardrobes, school desks and more. Made in Malawi. Visit our showroom in Likuni, Lilongwe.",
+    "location": "Likuni, Lilongwe, Malawi",
+    "whatsapp": "265885644306",
+    "phone": "+265 885 644 306",
+    "phone2": "+265 998 757 095",
+    "email": "kuphandafurniture@gmail.com",
+    "address": "Matope House Complex, Shops 3 & 4, Likuni, Lilongwe",
+    "hours": "Mon-Sat: 7:30 AM - 5:30 PM",
+    "facebook": "https://www.facebook.com/kuphandafurniture",
+    "instagram": ""
+  },
+  "theme": {
+    "brownDark": "#3D2817",
+    "brown": "#5C3D2A",
+    "brownLight": "#7A5536",
+    "amber": "#C89060",
+    "amberLight": "#DDB090",
+    "cream": "#F2E8DA",
+    "creamLight": "#F8F3ED",
+    "warmWhite": "#FCFAF6",
+    "textDark": "#2A1C10",
+    "textBody": "#4A3828",
+    "textMuted": "#8A7560",
+    "whatsapp": "#25D366",
+    "whatsappDark": "#1FA855",
+    "border": "#E0D5C2",
+    "fontHeading": "Playfair Display",
+    "fontBody": "DM Sans"
+  },
+  "agency": {
+    "name": "Brandfletch Media",
+    "website": "https://brandfletch.com"
+  },
+  "github": {
+    "owner": "geniuspulse",
+    "repo": "kuphanda-furniture",
+    "branch": "main"
+  }
+}

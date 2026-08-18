@@ -1,0 +1,242 @@
+[
+  {
+    "id": "executive-office-desk",
+    "name": "Executive Office Desk",
+    "description": "Premium executive desk with spacious work surface and built-in cable management. Custom-made with solid hardwood for a productive working environment.",
+    "price": 45000,
+    "salePrice": null,
+    "currency": "MWK",
+    "image": "/images/executive-desk.png",
+    "images": ["/images/executive-desk.png"],
+    "category": "Office Furniture",
+    "badge": "Bestseller",
+    "inStock": true,
+    "stockCount": 8,
+    "featured": true,
+    "specifications": {
+      "Dimensions": "160cm × 75cm × 72cm",
+      "Material": "Solid hardwood (Mlombwa)",
+      "Finish": "Lacquered, customizable",
+      "Features": "Cable management, lockable drawer",
+      "Weight": "35kg",
+      "Warranty": "12 months"
+    },
+    "variations": [
+      { "name": "Finish", "options": ["Natural Oak", "Dark Walnut", "Mahogany"] },
+      { "name": "Size", "options": ["140cm", "160cm", "180cm"] }
+    ]
+  },
+  {
+    "id": "boardroom-table",
+    "name": "Boardroom Table",
+    "description": "Custom-made boardroom table seating 8-10 people. Solid wood construction with a smooth, professional finish. Built to impress in any corporate setting.",
+    "price": 120000,
+    "salePrice": null,
+    "currency": "MWK",
+    "image": "/images/boardroom-table.png",
+    "images": ["/images/boardroom-table.png"],
+    "category": "Office Furniture",
+    "badge": "Premium",
+    "inStock": true,
+    "stockCount": 4,
+    "featured": true,
+    "specifications": {
+      "Dimensions": "240cm × 100cm × 75cm",
+      "Material": "Solid hardwood (Mlombwa)",
+      "Finish": "Lacquered, customizable",
+      "Seating Capacity": "8-10 people",
+      "Weight": "85kg",
+      "Warranty": "18 months"
+    },
+    "variations": [
+      { "name": "Seating Capacity", "options": ["6 seater", "8 seater", "10 seater", "12 seater"] },
+      { "name": "Finish", "options": ["Natural Oak", "Dark Walnut", "Mahogany"] }
+    ]
+  },
+  {
+    "id": "ergonomic-office-chair",
+    "name": "Ergonomic Office Chair",
+    "description": "Comfortable office chair with adjustable height and lumbar support. Perfect for long working hours. Upholstered in premium fabric.",
+    "price": 25000,
+    "salePrice": 22000,
+    "currency": "MWK",
+    "image": "/images/office-chair.png",
+    "images": ["/images/office-chair.png"],
+    "category": "Office Furniture",
+    "badge": "On Sale",
+    "inStock": true,
+    "stockCount": 15,
+    "featured": true,
+    "specifications": {
+      "Dimensions": "65cm × 70cm × 110cm",
+      "Frame": "Steel and hardwood",
+      "Upholstery": "Premium fabric, customizable",
+      "Features": "Adjustable height, swivel base, lumbar support",
+      "Weight": "12kg",
+      "Warranty": "12 months"
+    },
+    "variations": [
+      { "name": "Color", "options": ["Black", "Grey", "Beige", "Navy Blue"] }
+    ]
+  },
+  {
+    "id": "office-storage-cabinet",
+    "name": "Office Storage Cabinet",
+    "description": "Spacious office cabinet with multiple drawers and shelves. Ideal for filing documents and organizing office supplies. Lockable for security.",
+    "price": 35000,
+    "salePrice": null,
+    "currency": "MWK",
+    "image": "/images/office-cabinet.png",
+    "images": ["/images/office-cabinet.png"],
+    "category": "Office Furniture",
+    "badge": null,
+    "inStock": true,
+    "stockCount": 6,
+    "featured": false,
+    "specifications": {
+      "Dimensions": "90cm × 45cm × 180cm",
+      "Material": "Solid hardwood with MDF panels",
+      "Finish": "Lacquered, customizable",
+      "Features": "4 drawers, lockable, adjustable shelves",
+      "Weight": "45kg",
+      "Warranty": "12 months"
+    },
+    "variations": [
+      { "name": "Finish", "options": ["Natural Oak", "Dark Walnut", "Mahogany"] },
+      { "name": "Configuration", "options": ["4 drawers", "6 drawers", "2 drawers + shelves"] }
+    ]
+  },
+  {
+    "id": "hardwood-double-face-door",
+    "name": "Hardwood Double-Face Door",
+    "description": "Handcrafted hardwood double-face door. Made from premium Malawian timber. Durable, beautiful, and built to last generations.",
+    "price": 38000,
+    "salePrice": null,
+    "currency": "MWK",
+    "image": "/images/hardwood-door.png",
+    "images": ["/images/hardwood-door.png"],
+    "category": "Doors",
+    "badge": "Handcrafted",
+    "inStock": true,
+    "stockCount": 10,
+    "featured": true,
+    "specifications": {
+      "Dimensions": "90cm × 210cm × 4.5cm",
+      "Material": "Solid hardwood (Mlombwa)",
+      "Finish": "Sanded and sealed, customizable",
+      "Type": "Double-face (finished both sides)",
+      "Weight": "28kg",
+      "Warranty": "12 months"
+    },
+    "variations": [
+      { "name": "Size", "options": ["Standard (90×210cm)", "Wide (100×210cm)", "Custom"] },
+      { "name": "Design", "options": ["Plain", "Paneled", "Carved"] }
+    ]
+  },
+  {
+    "id": "upholstered-bed-frame",
+    "name": "Upholstered Bed Frame",
+    "description": "Elegant bed frame with tufted headboard. Customizable fabric and color options. Premium comfort and style for your bedroom.",
+    "price": 55000,
+    "salePrice": 50000,
+    "currency": "MWK",
+    "image": "/images/bed-frame.png",
+    "images": ["/images/bed-frame.png"],
+    "category": "Bedroom",
+    "badge": "On Sale",
+    "inStock": true,
+    "stockCount": 5,
+    "featured": true,
+    "specifications": {
+      "Dimensions": "Queen: 160cm × 200cm | King: 180cm × 200cm",
+      "Frame": "Solid hardwood (Mlombwa)",
+      "Headboard": "Tufted, high-density foam padding",
+      "Upholstery": "Premium fabric, customizable",
+      "Weight": "55kg",
+      "Warranty": "18 months"
+    },
+    "variations": [
+      { "name": "Size", "options": ["Single", "Double", "Queen", "King"] },
+      { "name": "Headboard Fabric", "options": ["Grey Velvet", "Beige Linen", "Navy Blue", "Burgundy Velvet"] }
+    ]
+  },
+  {
+    "id": "wardrobe",
+    "name": "Wardrobe",
+    "description": "Spacious wardrobe with hanging space, shelves, and drawers. Custom-made to fit your space perfectly. Made in Malawi.",
+    "price": 65000,
+    "salePrice": null,
+    "currency": "MWK",
+    "image": "/images/wardrobe.png",
+    "images": ["/images/wardrobe.png"],
+    "category": "Bedroom",
+    "badge": null,
+    "inStock": true,
+    "stockCount": 4,
+    "featured": false,
+    "specifications": {
+      "Dimensions": "120cm × 55cm × 200cm",
+      "Material": "Solid hardwood with MDF panels",
+      "Finish": "Lacquered, customizable",
+      "Features": "Hanging rail, 3 shelves, 2 drawers, lockable",
+      "Weight": "60kg",
+      "Warranty": "12 months"
+    },
+    "variations": [
+      { "name": "Size", "options": ["2-door", "3-door", "4-door", "Custom"] },
+      { "name": "Finish", "options": ["Natural Oak", "Dark Walnut", "Mahogany"] }
+    ]
+  },
+  {
+    "id": "school-desk",
+    "name": "School Desk",
+    "description": "Durable school desk and chair set. Built for daily classroom use. Made from solid hardwood to withstand years of wear.",
+    "price": 15000,
+    "salePrice": null,
+    "currency": "MWK",
+    "image": "/images/executive-desk.png",
+    "images": ["/images/executive-desk.png"],
+    "category": "School & Church",
+    "badge": null,
+    "inStock": true,
+    "stockCount": 50,
+    "featured": false,
+    "specifications": {
+      "Dimensions": "60cm × 45cm × 75cm",
+      "Material": "Solid hardwood",
+      "Finish": "Sanded and sealed",
+      "Includes": "Desk + matching chair",
+      "Weight": "8kg",
+      "Warranty": "12 months"
+    },
+    "variations": [
+      { "name": "Quantity", "options": ["Single set", "10 sets", "20 sets", "50+ sets (bulk pricing)"] }
+    ]
+  },
+  {
+    "id": "church-bench",
+    "name": "Church Bench",
+    "description": "Sturdy church bench seating 4-5 people. Made from solid hardwood for durability and comfort. Perfect for churches, halls, and waiting areas.",
+    "price": 22000,
+    "salePrice": null,
+    "currency": "MWK",
+    "image": "/images/boardroom-table.png",
+    "images": ["/images/boardroom-table.png"],
+    "category": "School & Church",
+    "badge": null,
+    "inStock": true,
+    "stockCount": 20,
+    "featured": false,
+    "specifications": {
+      "Dimensions": "200cm × 45cm × 90cm",
+      "Material": "Solid hardwood (Mlombwa)",
+      "Finish": "Sanded and sealed",
+      "Seating Capacity": "4-5 people",
+      "Weight": "30kg",
+      "Warranty": "18 months"
+    },
+    "variations": [
+      { "name": "Length", "options": ["2m (4-5 seater)", "2.5m (5-6 seater)", "3m (6-7 seater)"] }
+    ]
+  }
+]

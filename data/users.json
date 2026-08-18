@@ -1,0 +1,11 @@
+[
+  {
+    "id": "usr_001",
+    "name": "Admin",
+    "email": "admin@akonzifurniture.com",
+    "password": "akonzi-admin-2026",
+    "role": "admin",
+    "active": true,
+    "createdAt": "2026-07-26T00:00:00.000Z"
+  }
+]
