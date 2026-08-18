@@ -4,8 +4,8 @@
 
 export const siteConfig = {
   name: 'Kuphanda Furniture',
-  tagline: 'Custom-Made Office & Home Furniture in Malawi',
-  description: 'We custom-make high quality office furniture, boardroom tables, office cabinets, hardwood doors, beds, wardrobes, school desks and more. Made in Malawi. Visit our showroom in Likuni, Lilongwe.',
+  tagline: 'Your Imagination, Our Creativity',
+  description: 'The home of best quality furniture pieces specializing in Office furniture, Mid-century furniture. Custom-made in Lilongwe, Malawi.',
   location: 'Likuni, Lilongwe, Malawi',
   whatsapp: '265885644306',
   phone: '+265 885 644 306',
