@@ -51,7 +51,7 @@ export default function Footer({ settings: propSettings }) {
 
         <div className="footer-bottom">
           <p>&copy; {new Date().getFullYear()} {settings.name}. All rights reserved.</p>
-          <p>Website by <a href="https://brandfletch.com" target="_blank" rel="noopener" className="footer-credit">Brandfletch Media</a></p>
+          <p>Website by <a href="https://dev.brandfletch.com" target="_blank" rel="noopener" className="footer-credit">Brandfletch Dev Studio</a></p>
         </div>
       </div>
     </footer>
