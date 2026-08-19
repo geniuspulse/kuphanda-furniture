@@ -10,17 +10,32 @@ export default function Navbar({ settings }) {
   return (
     <nav className="navbar navbar-solid">
       <div className="nav-container">
-        {/* Logo */}
+        {/* Logo — matches Kuphanda's Facebook logo style */}
         <Link href="/" className="nav-logo" onClick={() => setMenuOpen(false)}>
           <span style={{
             fontFamily: 'var(--font-heading)',
-            fontSize: '1.4rem',
-            fontWeight: 700,
-            color: 'var(--brown-dark)',
+            fontSize: '1.3rem',
+            fontWeight: 800,
+            color: 'var(--text-dark)',
             textDecoration: 'none',
-            letterSpacing: '-0.5px',
+            letterSpacing: '1px',
+            textTransform: 'uppercase',
+            display: 'flex',
+            alignItems: 'baseline',
+            gap: '0',
           }}>
-            Kuphanda
+            KUPH<span style={{ color: 'var(--brown)' }}>ANDA</span>
+          </span>
+          <span style={{
+            fontFamily: 'var(--font-body)',
+            fontSize: '0.6rem',
+            fontWeight: 400,
+            color: 'var(--text-muted)',
+            letterSpacing: '2px',
+            textTransform: 'uppercase',
+            marginLeft: '4px',
+          }}>
+            Furniture
           </span>
         </Link>
 
