@@ -3,7 +3,7 @@
 
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
 export const GITHUB_OWNER = process.env.GITHUB_OWNER || 'geniuspulse';
-export const GITHUB_REPO = process.env.GITHUB_REPO || 'akonzi-sofa-furniture';
+export const GITHUB_REPO = process.env.GITHUB_REPO || 'kuphanda-furniture';
 export const GITHUB_BRANCH = process.env.GITHUB_BRANCH || 'main';
 
 const API_BASE = 'https://api.github.com';

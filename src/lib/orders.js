@@ -7,7 +7,7 @@ import { getSettings } from './settings';
 
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
 const GITHUB_OWNER = process.env.GITHUB_OWNER || 'geniuspulse';
-const GITHUB_REPO = process.env.GITHUB_REPO || 'akonzi-sofa-furniture';
+const GITHUB_REPO = process.env.GITHUB_REPO || 'kuphanda-furniture';
 const GITHUB_BRANCH = process.env.GITHUB_BRANCH || 'main';
 const API_BASE = 'https://api.github.com';
 
@@ -142,7 +142,7 @@ export async function updateOrderStatus(orderId, status) {
 // Build WhatsApp order message — rich cart summary with clickable product links
 export function buildWhatsAppOrderMessage(order) {
   const settings = getSettings();
-  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://akonzi-sofa-furniture.vercel.app';
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://kuphanda-furniture.vercel.app';
 
   let msg = `*NEW ORDER - ${order.id}*\n`;
   msg += `----------------------------------\n\n`;
